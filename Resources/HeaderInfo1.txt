@@ -1,0 +1,10 @@
+This program uses native System.DirectoryServices.AccountManagement library,
+To get user informations from Active Directory with optional properties.
+File "configs_GetUserInfo.txt" is for optional changes.
+
+SICIL - USERNAME - PHONE can be used to execute search.
+
+
+				Report Bug : yunusemrem@windowslive.com
+
+
