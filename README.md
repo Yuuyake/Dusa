@@ -1,4 +1,4 @@
-<img align="left" src="/Resources/Base.png" width="100" height="100"> 
+<img align="left" src="/Resources/Base.png" width="85" height="100"> 
 
 ## Dusa 
 Active Directory lookup, at its finest ;)
